@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+##WHOOOOOOAAAAHHHHHHHHHH##
+=======
+Hello world!
+line 2 text added
+
+New line added to readme
 This is a test push
 <<<<<<< HEAD
 
@@ -12,3 +19,4 @@ my text - Dmytro M
 TEST
 
 ELGEOE<ET,gE"<H"T<HWT<H
+>>>>>>> refs/remotes/origin/main
