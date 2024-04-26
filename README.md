@@ -1,5 +1,3 @@
-This is a test push
+Someone introduced a bug, Where is the RAID ;) !!! Papi Fredy was here. 
 
-More text ++!!
-Hello from Dmytro Bonislavskyi
-Let's make some changes
+I GOT THE POWER!!!
