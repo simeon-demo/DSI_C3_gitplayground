@@ -1,0 +1,10 @@
+My name is Alex. I was born almost 30 years ago in amazing city 
+Ivano-Frankivsk, Ukraine. My mother is a music teach and my father is a 
+small shop owner and watchmaker. I studied in one of the best universities 
+in Ukraine — Kyiv-Mohyla Academy. I studied chemisty and natural science. 
+There were a lot of nice activities there and one of them I had to take 
+part in scientific conferencec. I started creating websites for 
+conferences and this is why I started coding. I started from Joomla and 
+WordPress. After some time I started to work as a Front-End developer. Now 
+I'm studying on DSI courses from University Of Toronto. This is our first 
+project to learn how GitHub works.
